@@ -1,5 +1,5 @@
 # Git-Workshop
-**Aufgabe 1 - Basic Befehle**
+# **Aufgabe 1 - Basic Befehle**
 Einrichtung und Konfiguration von Git auf dem lokalen Computer
 - Git installieren und konfigurieren
 - Konfiguration überprüfen  
@@ -28,6 +28,6 @@ Für Schnelle:
 - Neue File erstellen und Comitten  das Projekt wieder auf den Stand des ersten Commits zurücksetzen
 
 
-**Aufgabe 2 - Branching und Merging Steckbrief**
+# **Aufgabe 2 - Branching und Merging Steckbrief**
 Hier geht es zur Aufgabe:
 https://github.com/kunal-ll/Aufgabe-2/tree/main
