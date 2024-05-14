@@ -1,5 +1,5 @@
 # Git-Workshop
-# **Aufgabe 1 - Basic Befehle**
+# **Aufgabe 1 - Basic Workflow**
 Einrichtung und Konfiguration von Git auf dem lokalen Computer
 - Git installieren und konfigurieren
 - Konfiguration überprüfen  
