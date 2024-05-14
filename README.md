@@ -25,7 +25,7 @@ Dateien zurücksetzen
 - Datei aus dem Staging-Bereich entfernen und .txt wieder zurücksetzen
   
 Für Schnelle: 
-- Neue File erstellen und Comitten  das Projekt wieder auf den Stand des ersten Commits zurücksetzen
+- Neue File erstellen und Comitten und das Projekt wieder auf den Stand des ersten Commits zurücksetzen
 
 
 # **Aufgabe 2 - Branching und Merging Steckbrief**
