@@ -30,4 +30,9 @@ Für Schnelle:
 
 # **Aufgabe 2 - Branching und Merging Steckbrief**
 Hier geht es zur Aufgabe:
-https://github.com/kunal-ll/Aufgabe-2/tree/main
+https://github.com/kunal-ll/Aufgabe-2
+
+
+# **Aufgabe 3 - Merging und Rebasing To Do Website**
+Hier geht es zur Aufgabe:
+https://github.com/kunal-ll/Aufgabe-3
