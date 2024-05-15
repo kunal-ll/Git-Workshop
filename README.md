@@ -36,3 +36,12 @@ https://github.com/kunal-ll/Aufgabe-2
 # **Aufgabe 3 - Merging und Rebasing To Do Website**
 Hier geht es zur Aufgabe:
 https://github.com/kunal-ll/Aufgabe-3
+
+
+# **Aufgabe 4 - kollaborativ Remote arbeiten**
+Hier geht es zur Aufgabe:
+https://github.com/kunal-ll/Aufgabe-4
+
+
+# **Cheatsheet**
+https://github.com/kunal-ll/cheatsheet
