@@ -35,18 +35,11 @@ Für Schnelle:
 <details>
   <summary>Hier siehst du den grundlegenden Workflow</summary>
   
-  - Beispielablauf:
-    ```bash
-    git add abspann.txt
-    git commit -m "Added role: Regisseur"
-    git pull 
-    # Auflösen von möglichen Konflikten
-    git push 
-    ```
+![image](https://github.com/kunal-ll/Git-Workshop/assets/125499349/16edb869-167b-4a2a-ab65-51c1d0e0dc10)
 
 </details>
 
-![image](https://github.com/kunal-ll/Git-Workshop/assets/125499349/16edb869-167b-4a2a-ab65-51c1d0e0dc10)
+
 
 # **Aufgabe 2 - Branching und Merging Steckbrief**
 Hier geht es zur Aufgabe:
