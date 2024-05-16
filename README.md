@@ -40,7 +40,8 @@ Für Schnelle:
 <details>
   <summary>Hier siehst du den grundlegenden Workflow</summary>
   
-![image](https://github.com/kunal-ll/Git-Workshop/assets/125499349/16edb869-167b-4a2a-ab65-51c1d0e0dc10)
+![image](https://github.com/kunal-ll/Git-Workshop/assets/125499349/a0812bb1-a537-4e10-99d3-3f84f1a6dafa)
+
 
 </details>
 
