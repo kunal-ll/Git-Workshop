@@ -1,7 +1,12 @@
 # Git-Workshop
 # **Quiz**
-
+<details>
+  <summary>Hier der QR-Code</summary>
+  
 ![image](https://github.com/kunal-ll/Git-Workshop/assets/125499349/403a04b3-38b7-4508-ac4f-95457df7b204)
+
+</details>
+
 
 # **Aufgabe 1 - Basic Workflow**
 Einrichtung und Konfiguration von Git auf dem lokalen Computer
